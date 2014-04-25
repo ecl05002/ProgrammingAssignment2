@@ -7,12 +7,6 @@
 ## 1. get() = gets the value of the matrix; 2. getInverse() = gets the inverse of the matrix
 ## 2. set() = sets new values for the matrix; 4. setInverse() = sets inverse of matrix.
 
-set the value of the vector
-get the value of the vector
-set the value of the mean
-get the value of the mean
-
-
 makeCacheMatrix <- function(x = matrix()) {
   i <- NULL
   set <- function(y) {
